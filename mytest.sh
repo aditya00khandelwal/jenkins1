@@ -4,4 +4,4 @@ echo "bye"
 cal
 echo "new code"
 echo "webhook"
-echo "final commit"
+echo "final commit changes"
